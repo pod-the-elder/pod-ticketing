@@ -10,6 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created CHANGELOG.md
 - Created & Updated README.md
 - Created priorityMatrix.py
-- Discovered and Installed plotly
-- Created runMeFirst.py to install required modules
-- Successfully running of plotly module
+- Created .csv framework
+- Created menu.py

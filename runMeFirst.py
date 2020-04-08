@@ -1,5 +1,5 @@
 #Allows the use of pip from .py file
-import subprocess
+"""import subprocess
 import sys
 
 def install(package):
@@ -7,3 +7,4 @@ def install(package):
 
 #installs plotly
 install("plotly==4.6.0")
+"""

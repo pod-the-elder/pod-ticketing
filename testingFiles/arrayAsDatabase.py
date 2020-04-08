@@ -9,3 +9,4 @@ testFig = go.Figure(data=[go.Table(header=dict(values=['A Scores', 'B Scores']),
                     ])
 
 testFig.show()
+
