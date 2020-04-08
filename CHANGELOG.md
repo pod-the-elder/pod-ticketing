@@ -12,3 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created priorityMatrix.py
 - Created .csv framework
 - Created menu.py
+- Adjusted menu.py based on https://extr3metech.wordpress.com/2014/09/14/simple-text-menu-in-python/ 
