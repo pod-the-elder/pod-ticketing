@@ -21,6 +21,8 @@ while loop:
         print("Update a ticket")
     elif choice==3:
         print("Read a ticket")
+        import entryRead
+        raw_input("Press any key to return to menu")
     elif choice==4:
         print("Close a ticket")
     elif choice==5:
